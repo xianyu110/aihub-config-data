@@ -33,6 +33,7 @@ This JSON database powers an AI aggregator app that helps normal users discover 
 - `chatbot`
 - `voice generator`
 - `image generator`
+- [GPT Image 2](https://gptimage2.asia/)
 - `video generator`
 - `music generator`
 - `writing helper`
